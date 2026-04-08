@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Minh Truong]!
+# 👋 Hi there, I'm Minh Truong!
 
 ### "Turning complex data into shared insights."
 
