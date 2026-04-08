@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Tên của bạn]!
+# 👋 Hi there, I'm [Minh Truong]!
 
 ### "Turning complex data into shared insights."
 
