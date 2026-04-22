@@ -28,6 +28,3 @@ I am a tech enthusiast deeply invested in the world of **Embedded Systems** and 
 
 *Let's connect, debate, and build something meaningful together.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Tên_Username_GitHub_Của_Bạn]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
